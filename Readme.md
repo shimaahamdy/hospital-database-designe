@@ -1,4 +1,4 @@
-# jospital mangament system (HMS)
+# Hospital mangament system (HMS)
 Hospital Management System (HMS) is an information system designed to provide hospital needs such as medical, data tracking, low issues and financial.
 In this design I focus on tracking the data of patients and their health history to access their information easily and keep it save also their surgeries, x-rays, examination and treatment to help to improve patients health care and help doctors to study cases as professionals to improve medical field on their researches.
 
